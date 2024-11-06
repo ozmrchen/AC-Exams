@@ -33,7 +33,7 @@ Edit your notes with: todo (blue), done (green), fail (red), help (orange), exam
 > [!todo]- Record
 > A complete set of fields relating to an entity, such as a person.
 
-> [!todo]- Records
+> [!todo]- ⭐Records
 > Records are collections of related data (fields) that may or may not have the same data types.
 
 > [!todo]- Field
@@ -166,13 +166,13 @@ Edit your notes with: todo (blue), done (green), fail (red), help (orange), exam
 > Naming conventions make source code easier to read, increasing its effectiveness.
 
 > [!todo]- Camel case
-> A naming convention in programming where each word or abbreviation after the first in a phrase begins with a capital letter; there are no spaces or punctuation.
+> A naming convention in programming where each word or abbreviation after the first in a phrase begins with a capital letter; there are no spaces or punctuation. eg: studentName
 
 > [!todo]- Snake case
-> A naming convention in programming where each word or abbreviation in the middle of a phrase is joined using an underscore.
+> A naming convention in programming where each word or abbreviation in the middle of a phrase is joined using an underscore. eg: student_name
 
 > [!todo]- Hungarian notation
-> A naming convention in computer programming where the name of the variable or function determines its purpose and its data type or structure.
+> A naming convention in computer programming where the name of the variable or function determines its purpose and its data type or structure. eg: strStudentName
 
 ## Programming
 
@@ -405,4 +405,3 @@ Edit your notes with: todo (blue), done (green), fail (red), help (orange), exam
 
 > [!todo]- Worst case
 > The longest amount of time it can take to run an algorithm.
-
