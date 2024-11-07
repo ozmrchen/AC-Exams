@@ -20,3 +20,8 @@ def selection_sort(arr):
         arr[i], arr[min_idx] = arr[min_idx], arr[i]
         
     return arr
+
+# demonstration
+data = [59, 67, 44, 73, 56, 84, 75, 62, 65, 71]
+sorted_data = selection_sort(data)
+print(data)
