@@ -27,3 +27,8 @@ def quick_sort(arr):
     
     # Recursively sort less and greater partitions, then combine all parts
     return quick_sort(less) + equal + quick_sort(greater)
+
+# demonstration
+data = [59, 67, 44, 73, 56, 84, 75, 62, 65, 71]
+sorted_data = quick_sort(data)
+print(data)
